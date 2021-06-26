@@ -1,0 +1,12 @@
+{
+    "customer_state": {
+      "pre_registration": 110,
+      "registration_submitted": 118,
+      "registration_rejected": 30,
+      "awaiting_start_of_service": 70,
+      "first_month": 40,
+      "renewal_window": 0,
+      "first_billing_window": 20,
+      "in_service": 39
+    }
+}
